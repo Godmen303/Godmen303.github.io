@@ -1,107 +1,113 @@
+
 <html lang="fr">
 <head>
-    <h1>AGIR POUR DEMAIN : UNE INITIATIVE POUR RÉDUIRE LES CHANGEMENTS CLIMATIQUES DANS LA COMMUNAUTÉ AUTOCHTONE</h1>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-wi   dth, initial-scale=1.0">
-    <title>AGIR POUR DEMAIN : UNE INITIATIVE POUR RÉDUIRE LES CHANGEMENTS CLIMATIQUES DANS LA COMMUNAUTÉ AUTOCHTONE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plan d'action climatique à Saskatoon</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
             background-color: #f4f4f9;
             color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
         }
         header {
             background-color: #3c763d;
-            color: #fff;
-            padding: 20px 0;
+            color: white;
             text-align: center;
+            padding: 20px 0;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            background-color: #2e5f2b;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .hero {
+            background: url('https://example.com/image.jpg') no-repeat center center/cover;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+        }
         .container {
-            max-width: 800px;
+            max-width: 1200px;
             margin: 20px auto;
-            padding: 20px;
+            padding: 0 20px;
             background-color: #fff;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
+        .section {
+            margin-bottom: 20px;
+        }
         h1, h2 {
             color: #3c763d;
         }
-        h2 {
-            margin-bottom: 10px;
-        }
         p {
-            margin-bottom: 10px;
-        }
-        ul {
-            margin-bottom: 20px;
+            text-align: justify;
         }
         footer {
             background-color: #3c763d;
-            color: #fff;
+            color: white;
             text-align: center;
             padding: 10px 0;
-            position: absolute;
-            bottom: 0;
-            width: 100%;
         }
     </style>
 </head>
 <body>
     <header>
+        <h1>Plan d'action climatique à Saskatoon</h1>
+        <nav>
+            <a href="#introduction">Introduction</a>
+            <a href="#actions">Actions</a>
+            <a href="#financement">Financement</a>
+            <a href="#contact">Contact</a>
+        </nav>
     </header>
+    <div class="hero">
+        <h2>Agissons ensemble pour un avenir durable</h2>
+    </div>
     <div class="container">
-        <div class="section">
+        <div class="section" id="introduction">
             <h2>Introduction</h2>
-            <p>Les changements climatiques sont influencés par divers facteurs tels que les gaz à effet de serre, les activités humaines et les phénomènes naturels. Nous devons agir pour protéger notre environnement.</p>
+            <p>Pour lutter contre les changements climatiques à Saskatoon, nous proposons d'organiser des ateliers éducatifs pour sensibiliser notre communauté et les former sur des pratiques durables, de mettre en place des projets de reforestation pour restaurer les zones qui ont été touchées, et d'encourager l'utilisation d'énergie renouvelable grâce à l'installation de panneaux solaires ou d'éoliennes. En plus, nous pourrions créer des jardins communautaires et lancer des campagnes de sensibilisation locale.</p>
         </div>
-        <div class="section">
-            <h2>Facteurs Influents</h2>
-            <p>Les principaux facteurs qui influencent les changements climatiques incluent:</p>
+        <div class="section" id="actions">
+            <h2>Moyens et méthodes d'intervention</h2>
             <ul>
-                <li>Gaz à effet de serre</li>
-                <li>Activités humaines (déforestation, industrialisation)</li>
-                <li>Phénomènes naturels (éruptions volcaniques)</li>
+                <li>Ateliers éducatifs pour informer et former sur les pratiques durables.</li>
+                <li>Projets de reforestation pour restaurer les zones dégradées.</li>
+                <li>Installation de panneaux solaires et d'éoliennes pour l'énergie renouvelable.</li>
+                <li>Création de jardins communautaires pour renforcer les liens sociaux et réduire l'empreinte carbone.</li>
+                <li>Campagnes de sensibilisation pour mobiliser la communauté.</li>
             </ul>
         </div>
-        <div class="section">
-            <h2>Impacts Actuels</h2>
-            <p>Les changements climatiques ont déjà affecté la communauté choisie par :</p>
-            <ul>
-                <li>Augmentation des températures</li>
-                <li>Tempêtes plus fréquentes</li>
-            </ul>
+        <div class="section" id="financement">
+            <h2>Coûts et financement</h2>
+            <p>Nous pourrions obtenir des fonds du gouvernement du Canada pour des projets qui réduisent les gaz polluants, ainsi que des subventions spéciales pour les projets écologiques dans les villes. D'autres sources de financement incluent des partenariats avec des entreprises privées, des aides financières d'ONG, et des collectes de fonds communautaires.</p>
         </div>
-        <div class="section">
-            <h2>Conséquences Futures</h2>
-            <p>Les conséquences futures possibles des changements climatiques incluent :</p>
-            <ul>
-                <li>Impacts sur la faune et la flore</li>
-                <li>Problèmes de sécurité alimentaire</li>
-                <li>Déplacements de population</li>
-            </ul>
-        </div>
-        <div class="section">
-            <h2>Initiative Personnelle</h2>
-            <p>Notre initiative personnelle pour lutter contre les changements climatiques implique :</p>
-            <ul>
-                <li>Promotion de l'énergie renouvelable</li>
-                <li>Organisation de campagnes de sensibilisation</li>
-                <li>Mise en place de pratiques agricoles durables</li>
-            </ul>
-        </div>
-        <div class="section">
-            <h2>Conclusion</h2>
-            <p>Ensemble, nous pouvons faire une différence en sensibilisant la communauté et en mettant en œuvre des actions concrètes pour réduire les changements climatiques.</p>
-            <p> https://docs.google.com/presentation/d/1o2dYMsYbHw--i-aV1oETHXP6J4MgfVdfP_cDO3zDyac/edit#slide=id.p1</p>
+        <div class="section" id="contact">
+            <h2>Contact</h2>
+            <p>Pour plus d'informations ou pour participer à nos projets, contactez-nous à : <a href="mailto:contact@notresite.com">contact@notresite.com</a></p>
         </div>
     </div>
-    <div>
-        <p>&copy; 2024 Projet de Science sur les changement climatique</p>
-    </div­>
+    <footer>
+        <p>&copy; 2024 Projet de Science sur les Changements Climatiques</p>
+    </footer>
 </body>
 </html>
