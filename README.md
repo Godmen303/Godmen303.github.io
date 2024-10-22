@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+    <h1>AGIR POUR DEMAIN : UNE INITIATIVE POUR RÉDUIRE LES CHANGEMENTS CLIMATIQUES DANS LA COMMUNAUTÉ AUTOCHTONE</h1>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-wi   dth, initial-scale=1.0">
     <title>AGIR POUR DEMAIN : UNE INITIATIVE POUR RÉDUIRE LES CHANGEMENTS CLIMATIQUES DANS LA COMMUNAUTÉ AUTOCHTONE</title>
     <style>
         body {
@@ -33,40 +34,26 @@
         }
         h2 {
             margin-bottom: 10px;
-            border-bottom: 2px solid #3c763d;
-            padding-bottom: 5px;
         }
         p {
             margin-bottom: 10px;
-            text-align: justify;
         }
         ul {
             margin-bottom: 20px;
-            padding-left: 20px;
-        }
-        ul li {
-            margin-bottom: 5px;
-        }
-        a {
-            color: #3c763d;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
         }
         footer {
             background-color: #3c763d;
             color: #fff;
             text-align: center;
             padding: 10px 0;
-            position: relative;
-            margin-top: 20px;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>AGIR POUR DEMAIN : UNE INITIATIVE POUR RÉDUIRE LES CHANGEMENTS CLIMATIQUES DANS LA COMMUNAUTÉ AUTOCHTONE</h1>
     </header>
     <div class="container">
         <div class="section">
@@ -75,7 +62,7 @@
         </div>
         <div class="section">
             <h2>Facteurs Influents</h2>
-            <p>Les principaux facteurs qui influencent les changements climatiques incluent :</p>
+            <p>Les principaux facteurs qui influencent les changements climatiques incluent:</p>
             <ul>
                 <li>Gaz à effet de serre</li>
                 <li>Activités humaines (déforestation, industrialisation)</li>
@@ -111,11 +98,11 @@
         <div class="section">
             <h2>Conclusion</h2>
             <p>Ensemble, nous pouvons faire une différence en sensibilisant la communauté et en mettant en œuvre des actions concrètes pour réduire les changements climatiques.</p>
-            <p><a href="https://docs.google.com/presentation/d/1o2dYMsYbHw--i-aV1oETHXP6J4MgfVdfP_cDO3zDyac/edit#slide=id.p1" target="_blank">Voir la présentation Google Slides</a></p>
+            <p> https://docs.google.com/presentation/d/1o2dYMsYbHw--i-aV1oETHXP6J4MgfVdfP_cDO3zDyac/edit#slide=id.p1</p>
         </div>
     </div>
-    <footer>
-        <p>&copy; 2024 Projet de Science sur les Changements Climatiques</p>
-    </footer>
+    <div>
+        <p>&copy; 2024 Projet de Science sur les changement climatique</p>
+    </div­>
 </body>
 </html>
